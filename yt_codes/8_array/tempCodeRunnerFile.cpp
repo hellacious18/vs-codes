@@ -1,0 +1,1 @@
+cout<<binary_search(arr,n);
